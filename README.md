@@ -13,7 +13,7 @@ Personally I am a **good listener**, reflection is my second name. I appreciate 
 * Git/GitLab: junior
 * Agile (Kanban/Scrum): junior
 * Confluence: junior
-* Jira/Redmine: regular
+* Jira/Azure DevOps/Redmine: regular
 * Asana/Trello: regular
 * SEO: regular 
 # Tech skills
@@ -39,10 +39,10 @@ Personally I am a **good listener**, reflection is my second name. I appreciate 
 * Ready to learn
 
 # Certificates
-**ISTQB Certified Tester Foundation Level**
+**ISTQB Certified Tester Foundation Level Nr. 29314**
 # Courses
 * uTest Academy – utest.com
-* Learn SQL – codecademy.com 
+* Learn SQL – codecademy.com, w3schools.com
 * Learn Phyton 2 – codecademy.com
 * Learn CSS – codecademy.com
 * Learn HTML – codecademy.com
@@ -52,6 +52,17 @@ Personally I am a **good listener**, reflection is my second name. I appreciate 
 # My bug's reports
 # My test reports
 # Books
+* „Pasja testowania” Krzysztof Jadczyk
+* „Podróż przez świat testowania” Natalia Pawlak, Karolina Pawłowska
+* „Zawód tester” Radosław Smilgin
+* „The Little Black Book On Test Desing” Rikard Edgren
+* „Agile Testing: A Practical Guide for Testers and Agile Teams” Lisa Crispin, Janet Gregory 
+
 # Groups on Facebook
+# Other Social Media
+* [@mentor_testowania_opr](https://www.instagram.com/mentor_testowania_opr/) – Instagram
+* [@testeroprogramowania1](https://www.facebook.com/testeroprogramowania1) – Facebook
+* [@TestITka](https://www.youtube.com/@TestITka) – YouTube
+
 # Blogs
 
